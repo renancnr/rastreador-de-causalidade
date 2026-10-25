@@ -1,0 +1,20 @@
+
+A criou pedido -> [1, 0, 0]
+B consultou estoque -> [0, 1, 0]
+C iniciou faturamento -> [0, 0, 1]
+A ENVIA: pedido criado -> [2, 0, 0]
+B RECEBE: pedido criado -> [2, 2, 0]
+B reservou estoque -> [2, 3, 0]
+B ENVIA: estoque reservado -> [2, 4, 0]
+C RECEBE: estoque reservado -> [2, 4, 2]
+
+--- Eventos concorrentes ---
+Evento 1: [2, 0, 0]
+Evento 2: [0, 2, 0]
+D1 antes de D2? False
+D2 antes de D1? False
+Eventos concorrentes? True
+
+--- Testes de comparação ---
+v1 antes de v2? True
+v2 antes de v3? False
