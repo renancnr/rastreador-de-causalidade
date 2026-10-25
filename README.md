@@ -35,7 +35,7 @@ py vetor.py
 ### Arquivos do projeto
 - `vetor.py`: código-fonte do programa.
 - `README.md`: documentação do projeto.
-- `RESPOSTAS.md`: respostas às perguntas da atividade.
+- `respostas.md`: respostas às perguntas da atividade.
 
 ### Conceito principal
 Os relógios vetoriais permitem determinar se existe uma relação causal entre eventos em processos distribuídos. Eles não representam o horário real, mas registram o conhecimento lógico de cada processo.
