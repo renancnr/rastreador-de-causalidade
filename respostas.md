@@ -57,3 +57,4 @@ O segundo resultado é falso porque a primeira posição do primeiro vetor é ma
 ## Conclusão
 
 Os relógios vetoriais permitem acompanhar a causalidade entre eventos em sistemas distribuídos. Eles ajudam a identificar quando um evento aconteceu antes de outro e quando os eventos são concorrentes.
+.
