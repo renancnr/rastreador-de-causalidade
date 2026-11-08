@@ -42,3 +42,4 @@ Os relógios vetoriais permitem determinar se existe uma relação causal entre 
 
 ### Conclusão
 A atividade demonstra como informações sobre eventos são propagadas entre processos e como os vetores permitem distinguir eventos causalmente relacionados de eventos concorrentes.
+.
